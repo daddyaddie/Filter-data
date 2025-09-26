@@ -114,3 +114,12 @@ Invoke-WebRequest -UseBasicParsing http://localhost:3000 | Select-Object -Expand
 ```text
 REACT_APP_API_BASE=http://localhost:5000/api
 ```
+
+
+
+
+Uploading Recording 2025-09-26 102624.mp4…
+
+<img width="1131" height="460" alt="Screenshot 2025-09-26 102642" src="https://github.com/user-attachments/assets/d01ba805-24eb-4bbb-bec6-7d9aacaab876" />
+
+
