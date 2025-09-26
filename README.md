@@ -118,8 +118,14 @@ REACT_APP_API_BASE=http://localhost:5000/api
 
 
 
-Uploading Recording 2025-09-26 102624.mp4…
+
 
 <img width="1131" height="460" alt="Screenshot 2025-09-26 102642" src="https://github.com/user-attachments/assets/d01ba805-24eb-4bbb-bec6-7d9aacaab876" />
+
+
+
+https://github.com/user-attachments/assets/fbb0c989-fdf3-4ba6-acdc-a60484296efe
+
+
 
 
